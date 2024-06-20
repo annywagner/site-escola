@@ -1,5 +1,14 @@
-body {
-    background-color: #383D58;
+body{
+    background-color: #383d38;
     color: white;
-    }
-    
+}
+
+.cabecalho{
+    background: #383d38;
+    color: white;
+    display: flex;
+}
+justify-content: space-around;
+img.cabecalho-imagem{
+    alurastart logo 1.png
+}
