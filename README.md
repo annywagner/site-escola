@@ -1,4 +1,4 @@
-# Site da Equipe Alura Start! 
+# Site-escola 
 
 Fiz esse site para divulgar a equipe de trabalho incrivel que eu participo! 
 
